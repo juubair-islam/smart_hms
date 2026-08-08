@@ -1,0 +1,14 @@
+smart-hms-project/
+├── index.php             (Login/Registration Page)
+├── config/
+│   └── db.php            (Database Connection)
+├── pages/
+│   ├── patient_dashboard.php
+│   ├── doctor_dashboard.php
+│   └── admin_dashboard.php
+├── actions/
+│   ├── register_user.php
+│   ├── login_user.php
+│   └── logout.php
+└── includes/
+    └── header.php        (HTML boilerplate and navigation)
